@@ -2,7 +2,7 @@
 
 <!--
 **mahsavali/mahsavali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/{ [value](https://ir.linkedin.com/in/mahsa-vali-8351ba172) }/)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
