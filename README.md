@@ -5,7 +5,7 @@
 [![Researchgate](https://img.shields.io/badge/-Researchgate-white?style=flat&logo=Researchgate&logoColor=black)](https://www.researchgate.net/profile/Mahsa-Vali/)
 [![Hooglescholar](https://img.shields.io/badge/-GoogleScholar-black?style=flat&logo=Googlescholar&logoColor=blue)](https://scholar.google.com/citations?user=18wPZBQAAAAJ&hl=en#d=gs_hdr_drw&t=1689688458413/)
 
-- 🔭 I’m currently at the University of Cologne studyning PhD 
+- 🔭 I’m currently pursuing a PhD at the University of Cologne.
 - 🌱 I’m currently learning everything to be a better developer 
 - 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahsa-vali-8351ba172/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mahsavali14@gmail.com)
