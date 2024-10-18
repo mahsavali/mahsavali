@@ -1,6 +1,6 @@
 ### Welcome to Mahsa's Profile 👋
 
-✨ Greetings! I am Mahsa Vali, this is my github main page. ✨
+✨ Greetings! I am Mahsa Vali, this is my github page. ✨
 
 [![Researchgate](https://img.shields.io/badge/-Researchgate-white?style=flat&logo=Researchgate&logoColor=black)](https://www.researchgate.net/profile/Mahsa-Vali/)
 [![Hooglescholar](https://img.shields.io/badge/-GoogleScholar-black?style=flat&logo=Googlescholar&logoColor=blue)](https://scholar.google.com/citations?user=18wPZBQAAAAJ&hl=en#d=gs_hdr_drw&t=1689688458413/)
